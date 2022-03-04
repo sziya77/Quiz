@@ -1,0 +1,13 @@
+DEFINE : to mapping between model and table
+
+returning true: to tell Sequelize to return the object.
+
+plain true:  to return the object itself and not the other messy meta data that might not be useful.
+
+
+
+The HasOne association
+
+The BelongsTo association
+The HasMany association
+The BelongsToMany association
